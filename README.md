@@ -4,7 +4,7 @@ A modern, responsive enterprise-grade support ticketing system built with React,
 
 ## Live Demo
 
-Visit the live application: [support-ticketing-system-ierz.vercel.app](support-ticketing-system-ierz.vercel.app)
+Visit the live application: [https://support-ticketing-system-ierz.vercel.app/](support-ticketing-system-ierz.vercel.app/)
 
 ## Features
 
