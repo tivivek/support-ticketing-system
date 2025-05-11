@@ -25,39 +25,35 @@ Visit the live application: [Support Ticketing System](https://your-vercel-url-h
 - **React Hook Form** with Zod for form validation
 - **Mock API** services for frontend-only development
 
-## Screenshots
-
-![Dashboard](path/to/dashboard-screenshot.png)
-![Ticket List](path/to/ticket-list-screenshot.png)
-![Ticket Details](path/to/ticket-details-screenshot.png)
-
 ## Getting Started
 
 ### Prerequisites
 
-- Node.js 16.x or higher
-- npm 8.x or higher
+- Node.js 22.x
+- npm 11.2
 
 ### Installation
 
 1. Clone the repository
 
-```bash
-git clone https://github.com/yourusername/support-ticketing-system.git
+`bash`
+
+```
+git clone git@github.com:tivivek/support-ticketing-system.git
 cd support-ticketing-system
 ```
 
 ## Install dependencies
 
-bashnpm install
+`npm install`
 
 ## Start the development server
 
-bashnpm run dev
+`npm run dev`
 
 ## Open your browser and navigate to
 
-http://localhost:5173
+`http://localhost:5173`
 
 ## Login Credentials
 
@@ -68,6 +64,8 @@ http://localhost:5173
 - Admin: admin@example.com / password123
 
 ## Project Structure
+
+```
 
 src/
 ├── assets/ # Static assets
@@ -84,6 +82,8 @@ src/
 │ └── middleware/ # Custom middleware
 ├── types/ # TypeScript type definitions
 └── utils/ # Utility functions
+
+```
 
 ## Building for Production
 
